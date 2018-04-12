@@ -1,0 +1,10 @@
+c:\users\павлове.corp\documents\visual studio 2017\Projects\EFLesson\EFLesson\bin\Debug\EFLesson.exe.config
+c:\users\павлове.corp\documents\visual studio 2017\Projects\EFLesson\EFLesson\bin\Debug\EFLesson.exe
+c:\users\павлове.corp\documents\visual studio 2017\Projects\EFLesson\EFLesson\bin\Debug\EFLesson.pdb
+c:\users\павлове.corp\documents\visual studio 2017\Projects\EFLesson\EFLesson\bin\Debug\EntityFramework.dll
+c:\users\павлове.corp\documents\visual studio 2017\Projects\EFLesson\EFLesson\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\павлове.corp\documents\visual studio 2017\Projects\EFLesson\EFLesson\bin\Debug\EntityFramework.xml
+c:\users\павлове.corp\documents\visual studio 2017\Projects\EFLesson\EFLesson\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\павлове.corp\documents\visual studio 2017\Projects\EFLesson\EFLesson\obj\Debug\EFLesson.csprojResolveAssemblyReference.cache
+c:\users\павлове.corp\documents\visual studio 2017\Projects\EFLesson\EFLesson\obj\Debug\EFLesson.exe
+c:\users\павлове.corp\documents\visual studio 2017\Projects\EFLesson\EFLesson\obj\Debug\EFLesson.pdb
